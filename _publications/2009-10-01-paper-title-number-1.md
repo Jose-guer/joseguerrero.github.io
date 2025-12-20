@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026
+date: 2026-01-01
 venue: 'Combustion and Flame (under review)'
 slidesurl: ''
 paperurl: ''
