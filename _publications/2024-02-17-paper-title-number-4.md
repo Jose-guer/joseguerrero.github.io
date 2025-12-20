@@ -5,7 +5,7 @@ category: conferences
 permalink: 
 excerpt: ''
 date: 2025-01-01
-venue: 'AIAA SciTech Fourm 2025'
+venue: 'AIAA SciTech Fourm'
 paperurl: 'https://doi.org/10.2514/6.2025-0862'
 citation: 'Guerrero, Jose, and Mirko Gamba. "Post-Incident Shock Wave Measurements of Gas Properties at 1 MHz Using Scanned-Wavelength-Modulation Spectroscopy." AIAA SCITECH 2025 Forum. 2025.'
 ---
