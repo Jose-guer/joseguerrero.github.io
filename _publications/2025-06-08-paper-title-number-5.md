@@ -5,7 +5,7 @@ category: conferences
 permalink: 
 excerpt: ''
 date: 2025-01-01
-venue: 'AIAA SciTech Fourm 2025'
+venue: 'AIAA SciTech Fourm'
 paperurl: 'https://doi.org/10.2514/6.2025-0799'
 citation: 'Guerrero, Jose, and Mirko Gamba. "Synthetic LAS Measurements of Combustion Efficiency in a Rotating Detonation Engine Using 3D-DNS Data." AIAA SCITECH 2025 Forum. 2025.'
 ---
