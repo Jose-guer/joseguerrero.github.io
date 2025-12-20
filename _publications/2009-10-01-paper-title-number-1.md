@@ -3,7 +3,7 @@ title: "Quantifying Combustion Efficiency in Rotating Detonation Engines Using M
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: 
+excerpt: ''
 date: 2026-01-01
 venue: 'Combustion and Flame (under review)'
 slidesurl: 
