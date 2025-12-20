@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Synthetic LAS Measurements of Combustion Efficiency in a Rotating Detonation Engine Using 3D-DNS Data"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: 
+excerpt: ''
+date: 2025-01-01
+venue: 'AIAA SciTech Fourm 2025'
+paperurl: 'https://doi.org/10.2514/6.2025-0799'
+citation: 'Guerrero, Jose, and Mirko Gamba. "Synthetic LAS Measurements of Combustion Efficiency in a Rotating Detonation Engine Using 3D-DNS Data." AIAA SCITECH 2025 Forum. 2025.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+Rotating detonation engines (RDEs) have recently seen a surge in research focused on demonstrating pressure gain combustion or a higher thermal efficiency compared to conventional deflagrative combustors. Additionally, there has been growing interest in measuring combustion efficiency as a means of comparing RDEs with deflagrative devices and assessing their potential for compact combustor designs. Laser absorption spectroscopy (LAS) sensors capable of resolving the rapidly evolving properties of the combustion products are considered the most promising method for measuring combustion efficiency. In this study, we explore several LAS data post-processing techniques that can be used to infer combustion efficiency. We evaluate the accuracy of these methods by simulating synthetic LAS spectra generated from 3D direct numerical simulations (DNS) of two hydrogen-air fueled RDE geometries. We additionally consider hydrocarbon fuels and develop several equations based on chemical models for evaluating combustion efficiency from species measurements. The accuracy of these equations is evaluated through zero-dimensional simulations performed in Cantera.
