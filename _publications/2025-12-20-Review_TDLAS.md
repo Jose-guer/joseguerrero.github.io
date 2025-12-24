@@ -7,7 +7,8 @@ excerpt: ''
 date: 2025-12-20
 venue: 'arXiv'
 slidesurl: 
-paperurl: 
+paperurl: '
+https://doi.org/10.48550/arXiv.2512.18201'
 bibtexurl: 
 citation: 
 ---
