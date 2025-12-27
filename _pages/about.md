@@ -16,6 +16,6 @@ I earned my B.S. in Aerospace Engineering from UCLA in 2021, where I graduated *
 
 I began my doctoral studies in Aerospace Engineering at the University of Michigan in September 2021, advised by Professor Mirko Gamba. My research focuses on quantifying energy conversion processes in rotating detonation combustors, with particular emphasis on combustion efficiency and deflagration loss mechanisms. My work leverages advanced laser diagnostic techniques such as tunable diode laser absorption spectroscopy, reduced-order modeling, and traditional high-speed imaging and pressure transducers to interrogate the RDC flowfield.
 
-News and Upcomming Events
-======
+In my free time I enjoy running, playing chess, watching football, and travelling!
+
 
